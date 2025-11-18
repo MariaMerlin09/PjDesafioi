@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    background-color: rgb(189, 189, 254);
+}
+
+#img {
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+}
+
+p {
+    text-align: justify;
+}
+
+#ben:hover{
+    box-shadow: 2px 2px 2px grey;
+    transition-duration: 0.1s;
+    background-color: rgb(175, 105, 241);
+    color: aliceblue;
+}
+
+#caixa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#caixote{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#caixote p {
+    width: 60%;
+}
+
+h3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(223, 223, 255); 
+}
+
+#cadastro {
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
