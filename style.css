@@ -43,12 +43,3 @@ h3 {
     background-color: rgb(223, 223, 255); 
 }
 
-#cadastro {
-    width: 300px;
-    margin: 20px auto;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    background-color: #f9f9f9;
-    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
-}
